@@ -1,0 +1,41 @@
+/* Estilos para el documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.bloque {
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    padding: 15px;
+    border: 2px solid #ccc;
+}
+
+.inline-container {
+    background-color: #e0f7fa;
+    padding: 10px;
+}
+
+.inline {
+    background-color: #b2ebf2;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #00796b;
+    display: inline;
+}
+
+/* Estilos para el modelo de caja */
+.box-model {
+    background-color: #ffcdd2;
+    padding: 20px;
+    border: 5px solid #e57373;
+    margin: 20px 0;
+}
+
+.box-model p {
+    margin: 0;
+}
